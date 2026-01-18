@@ -1,8 +1,8 @@
 # Digitalization Projects
 
-This repository contains digitalization and data projects with a strong focus on **Power BI**, **data modeling**, and **business-oriented analytics**.
+This repository contains digitalization projects with a focus on **Power BI**, **data modeling**, and **business-oriented analytics**.
 
-The goal is to demonstrate how structured data, clean models, and well-defined KPIs can support operational and process-driven decision-making.
+The goal is to demonstrate how structured data and well-defined KPIs can support operational and process-driven decision-making.
 
 ---
 
@@ -12,7 +12,6 @@ The goal is to demonstrate how structured data, clean models, and well-defined K
 - Data modeling (star schema, relational models)
 - Data quality checks and validation
 - DAX measures and KPI design
-- Process and digitalization-oriented analytics
 
 ---
 
