@@ -35,20 +35,10 @@ Raw data, processed data, and reporting assets are intentionally kept separate a
 
 ### Example
 
-- data/raw/ProjectX/
-- data/processed/ProjectX/
-- powerbi/ProjectX-dashboard/
-- 
-### Example
-
 ```text
-data/
-├── raw/
-│   └── ProjectX/
-├── processed/
-│   └── ProjectX/
-└── powerbi/
-    └── ProjectX-dashboard/
+data/raw/ProjectX/
+data/processed/ProjectX/
+powerbi/ProjectX-dashboard/
 
 ```
 ---
