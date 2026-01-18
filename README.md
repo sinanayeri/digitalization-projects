@@ -18,14 +18,27 @@ The goal is to demonstrate how structured data, clean models, and well-defined K
 
 ## Repository Structure
 
-- `powerbi/`  
-  Power BI dashboards, DAX logic, and model documentation
+This repository uses a **data-lake style structure**.
 
-- `data/`  
-  Sample raw and processed datasets used for reporting
+Raw data, processed data, and reporting assets are intentionally kept separate and organized by **data stage** and **project**, rather than being grouped inside a single project folder.
 
-- `docs/`  
-  Business context, assumptions, and digitalization concepts
+### Structure Overview:
+
+- `data/raw/<project>/`  
+  Raw, unmodified source data as ingested from systems or exports
+
+- `data/processed/<project>/`  
+  Cleaned and validated datasets used for reporting and analysis
+
+- `powerbi/<project>/`  
+  Power BI dashboards, models, and project-specific documentation
+
+### Example
+
+```text
+data/raw/ProjectX/
+data/processed/ProjectX/
+powerbi/ProjectX-dashboard/
 
 ---
 
