@@ -50,4 +50,4 @@ No real company or personal data is included.
 
 ## About
 
-This repository reflects practical experience in digitalization, analytics, and data-driven process optimization, combining technical implementation with business understanding.
+This repository reflects practical experience in digitalization, combining technical implementation with business understanding.
